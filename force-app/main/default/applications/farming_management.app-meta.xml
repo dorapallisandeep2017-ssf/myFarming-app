@@ -13,7 +13,9 @@
     <isOmniPinnedViewEnabled>false</isOmniPinnedViewEnabled>
     <label>farming management</label>
     <navType>Standard</navType>
-    <tabs>standard-Account</tabs>
+    <tabs>Farmer__c</tabs>
+    <tabs>crop__c</tabs>
+    <tabs>standard-Order</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>farming_management_UtilityBar</utilityBar>
 </CustomApplication>
